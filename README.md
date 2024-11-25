@@ -18,11 +18,11 @@ How to Run:
 3) Train and evaluate the model:
 --python train_model.py
 
-  i). Scrape data from subreddits like `r/stocks` and `r/investing`.
- ii). Preprocess data: Clean text and perform sentiment analysis.
-iii). Train and evaluate a machine learning model to predict stock movements.
+1. Scrape data from subreddits like `r/stocks` and `r/investing`.
+2. Preprocess data: Clean text and perform sentiment analysis.
+3. Train and evaluate a machine learning model to predict stock movements.
 
-**Libraries used**
+### **Libraries used** 
 
 --> pip install praw nltk scikit-learn matplotlib pandas
 
